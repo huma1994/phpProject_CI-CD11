@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 
 <head>
-	<title>Simple Calculator Program in PHP - Tutorials Class</title>
+	<title>CALC</title>
 </head>
 
 <?php
